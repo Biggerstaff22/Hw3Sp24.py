@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="597c4b05-bc4e-4790-9037-299a82a0e98c" name="Changes" comment="Code not working. Initial output.">
-      <change afterPath="$PROJECT_DIR$/Test File.py" afterDir="false" />
+    <list default="true" id="597c4b05-bc4e-4790-9037-299a82a0e98c" name="Changes" comment="Problem A working! Working on problem B...">
+      <change afterPath="$PROJECT_DIR$/HW3Sp24b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test File.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test File.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +37,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.HW3Sp24a.executor": "Run",
+    "Python.HW3Sp24b.executor": "Run",
     "Python.Test File.executor": "Run",
+    "Python.hw2a.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Bigge/Source/MAE 3403/Hw3Sp.py"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bigge\Source\MAE 3403\Hw3Sp.py" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Hw3Sp.py" />
@@ -105,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707345466714</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Problem A working! Working on problem B...">
+      <option name="closed" value="true" />
+      <created>1707417707851</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707417707851</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +140,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Yup" />
     <MESSAGE value="Code not working. Initial output." />
-    <option name="LAST_COMMIT_MESSAGE" value="Code not working. Initial output." />
+    <MESSAGE value="Problem A working! Working on problem B..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem A working! Working on problem B..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
