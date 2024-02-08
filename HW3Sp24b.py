@@ -50,7 +50,7 @@ def t_distribution_probability(df, z):
     # Integrate using Simpson's rule
     probability = Simpson(t_distribution_function, 0, z, 1000) + 0.5  # Adjust the number of intervals as needed
 
-    return round(probability, 3)
+    return probability
 
 
 def main():
@@ -70,7 +70,7 @@ def main():
             # Calculate the t-distribution probability
             try:
                 probability = t_distribution_probability(df, z)
-                print(f"The probability for df={df} and z={z} is: {probability:.6f}")
+                print(f"The probability for df={df} and z={z} is: {probability:.4f}")
             except ValueError as e:
                 print(e)
 
