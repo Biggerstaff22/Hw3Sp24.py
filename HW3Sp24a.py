@@ -2,6 +2,8 @@ import math
 import copy
 #I used ChatGPT to help me write this code. I am going to have it explain the code to me step
 #by step so that I can better understand the code and why the code is written this way.
+#I had to really work on giving the correct prompts so that the code would run the way
+#it needed to run per the homework.
 
 def is_symmetric(matrix):
     """
