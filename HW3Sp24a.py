@@ -1,5 +1,7 @@
 import math
 import copy
+#I used ChatGPT to help me write this code. I am going to have it explain the code to me step
+#by step so that I can better understand the code and why the code is written this way.
 
 def is_symmetric(matrix):
     """
